@@ -1,0 +1,43 @@
+
+
+#login-name{
+	font-size:40px;
+	font-family: Arabic typesetting;
+	
+	color: gray;
+}
+#login{
+	background-color: #0d0d0d;
+	min-height: 00px;
+	opacity: 0.70;
+	padding: 40px 80px 40px 80px;
+	box-shadow: -10px -10px 9px #33cc33;
+}
+.user{
+	font-family: Arabic typesetting;
+	font-size: 24px;
+	color: white;
+}
+#iconn{
+	background-color: #5cb85c;
+	border-color: #4cae4c;
+	color: white;
+}
+#pass-iconn{
+	background-color: #5cb85c;
+	border-color: #4cae4c;
+	color: white;
+}
+#text1{
+	border-radius: 0px;
+	height:40px;
+}
+#text2{
+	border-radius: 0px;
+	height:40px;
+}
+.btn{
+	float:left;	
+	width:33%;
+	margin-left:1px;
+}
